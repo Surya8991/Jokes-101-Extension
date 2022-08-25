@@ -1,0 +1,14 @@
+{
+    "name":"Jokes 101",
+    "version":"0.0.1",
+    "manifest_version":3,
+    "action":{
+        "default_popup":"popup.html",
+        "default_icon":"icon.png"
+    },
+    "icons": {
+        "128": "logo.png"
+      },
+    "author":"Surya8991",
+    "permissions":["activeTab"]
+}
